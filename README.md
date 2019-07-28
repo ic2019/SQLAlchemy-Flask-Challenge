@@ -56,7 +56,7 @@ _Number of stations : 9_
  
  ```
 
-  * Which station has the highest number of observations?
+  * Which station has the highest number of temperature observations?
   
   ```
   USC00519281
@@ -78,7 +78,7 @@ _Number of stations : 9_
     
     *Analysis*
 
-From the above graph, for station USC00511918 has reported approximately 76 degrees F most of the days in last 12 months. This indicates that station USC00511918 is an ideal spot for vacation as the lowest reported is near to 60F and highest close to 85 with less than 10 times in the last year. Also Station USC00511918 comes in 7th position for the top list of most active stations with a count of 1979.
+    _From the above graph, for station USC00511918 has reported approximately 76 degrees F most of the days in last 12 months. This indicates that        station USC00511918 is an ideal spot for vacation as the lowest reported is near to 60F and highest close to 85 with less than 10 times in the      last year. Also Station USC00511918 comes in 7th position for the top list of most active stations with a count of 1979._
 
 - - -
 
